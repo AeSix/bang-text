@@ -43,4 +43,4 @@ read -n 1 -t 10 -s -r -p "Press any key to continue"
 
 clear # This clears the screen, visual cleanup.
 ls # lists the current directory, so you can see your shiny new Nukkit!
-EOF
+# EOF
