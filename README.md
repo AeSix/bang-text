@@ -3,10 +3,10 @@ Various bash scripts, related to system admin tasks.
 
 Except where specified, all projects within AeSix/bang-text are covered by the MIT License.  
 In plain:  
- You agree to give me credit (copyright);  
- You are free to modify, share, sell, use any how you wish (share-alike)  
- I am not liable for anything this software does;  
- This license is applied to all derivative works.  
+* You agree to give me credit (copyright);  
+* You are free to modify, share, sell, use any how you wish (share-alike);  
+* I am not liable for anything this software does;  
+* This license is applied to all derivative works.  
 (The MIT License is more detailed and should be read and understood before accepting this license!)  
   
 License:  
