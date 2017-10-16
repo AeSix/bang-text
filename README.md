@@ -1,6 +1,8 @@
 # bang-text
-Various bash scripts, related to system admin tasks. 
-
+Various bash scripts, related to system admin tasks.  
+nukkit-update: A bash script to download the latest version of Nukkit-GT, rotate versions to give an "instant-backup" of the previous "currnt" server jar.  
+*This is currently dumb and will allow you to have the same file duplicated for current and previous, if run more than once between actual Nukkit-GT releases. This should be worked on one day.*  
+  
 Except where specified, all projects within AeSix/bang-text are covered by the MIT License.  
 In plain:  
 * You agree to give me credit (copyright);  
